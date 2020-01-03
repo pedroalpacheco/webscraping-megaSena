@@ -1,0 +1,24 @@
+{
+  "name": "webscraping-megaSena",
+  "version": "1.0.0",
+  "description": "Introdução de scraping em resultado da mega-sena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/webscraping-megaSena.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/webscraping-megaSena/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/webscraping-megaSena#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.0.0"
+  }
+}
